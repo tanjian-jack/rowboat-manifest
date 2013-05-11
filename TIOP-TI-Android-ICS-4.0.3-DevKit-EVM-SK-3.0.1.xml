@@ -11,5 +11,5 @@
  <project name="vendor-ti-am335xevm" path="device/ti/am335xevm" revision="7198232cec46171ae8f6f35c796327c8abdbf4ff"/>
   <project name="vendor-ti-am335xevm_sk" path="device/ti/am335xevm_sk" revision="6043ced466cb21ce95ec8ce99f4e9d0febc639b3"/>
   <project name="vendor-ti-beaglebone" path="device/ti/beaglebone" revision="5c879d9a8c737fb9baaac1acd70b44ed0a167259"/>
-  <project name="vendor-embest-devkit8600" path="device/embest/devkit8600" revision="29d172ef656df6c3a7ffd07071e8cf297cbe150e"/>
+  <project name="vendor-embest-devkit8600" path="device/embest/devkit8600" remote="tanjian-jack-github" revision="29d172ef656df6c3a7ffd07071e8cf297cbe150e"/>
 </manifest>
